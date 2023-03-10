@@ -1,1 +1,2 @@
-udo adduser betty
+#!/bin/bash
+sudo adduser betty
