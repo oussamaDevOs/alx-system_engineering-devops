@@ -1,2 +1,2 @@
 #!/bin/bash
-rm -R *.Js
+grep -R | rm *.Js   
