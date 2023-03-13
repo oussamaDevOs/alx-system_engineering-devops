@@ -1,2 +1,2 @@
 #!/bin/bash
-fmt "Hello World /n" | pr | lpr
+echo "Hello World /n"
