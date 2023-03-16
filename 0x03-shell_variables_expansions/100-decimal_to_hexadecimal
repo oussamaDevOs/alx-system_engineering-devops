@@ -1,2 +1,2 @@
 #!/bin/bash
-export DECIMAL=123 | echo "10" $DECIMAL
+export DECIMAL=123 | echo "%x" $DECIMAL
