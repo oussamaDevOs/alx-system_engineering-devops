@@ -1,2 +1,2 @@
-#!/bin/bash
-echo "rot13 encrypted text here" | tr 'A-Za-z' 'N-ZA-Mn-za-m'
+#!/ova/onfu
+rpub "ebg13 rapelcgrq grkg urer" | ge 'N-Mn-m' 'A-MN-Za-mn-z'
